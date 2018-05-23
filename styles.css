@@ -1,0 +1,51 @@
+.seg1 { /*blue*/
+	position: relative;
+	height: 180px;
+	width: 35px;
+	border-radius: 100px;
+	background-color: #6ecadc;
+	left: 200px;
+	top: 200px;
+	transform: rotate(70deg);
+	opacity: 0.8;
+	mix-blend-mode: multiply;
+}
+
+.seg2 { /*yellow*/
+	position: relative;
+	height: 180px;
+	width: 35px;
+	border-radius: 100px;
+	background-color: #e9a820;
+	left: 250px;
+	top: 40px;
+	transform: rotate(160deg);
+	opacity: 0.8;
+	mix-blend-mode: multiply;
+}
+
+.seg3 { /*red*/
+	position: relative;
+	height: 180px;
+	width: 35px;
+	border-radius: 100px;
+	background-color: #e01563;
+	left: 225px;
+	top: -85px;
+	transform: rotate(70deg);
+	opacity: 0.8;
+	mix-blend-mode: multiply;
+}
+
+.seg4 { /*green*/
+	position: relative;
+	height: 180px;
+	width: 35px;
+	border-radius: 100px;
+	background-color: #3eb991;
+	left: 180px;
+	top: -300px;
+	transform: rotate(160deg);
+	opacity: 0.8;
+	mix-blend-mode: multiply;
+}
